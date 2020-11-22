@@ -1,0 +1,1493 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Chauffeur Shortcodes & Post Types\n"
+"POT-Creation-Date: 2018-12-17 10:36+0900\n"
+"PO-Revision-Date: 2018-12-17 10:36+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: chauffeur-shortcodes-post-types.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: chauffeur-shortcodes-post-types.php:270
+msgid "Please enter a pick up and drop off location"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:271
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:272
+msgid "Please enter a valid phone number (numbers only and no spaces)"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:273
+msgid "Number of bags selected exceeds vehicle limit"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:274
+msgid "Number of passengers selected exceeds vehicle limit"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:275
+msgid "Please select a vehicle"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:276
+msgid "Please complete all the required form fields marked with a *"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:277
+msgid "Please select your addresses using the Google autocomplete suggestion"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:278
+msgid "You must accept the terms and conditions before placing your booking"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:281
+msgid "The minimum hourly booking is"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:281
+msgid "hours"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:283
+msgid "Sorry we do not accept same day online bookings less than"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:283
+msgid "hour(s) in advance of the pick up time"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:968
+#: chauffeur-shortcodes-post-types.php:1520
+msgid "Paid"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:970
+msgid "PayPal"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1022
+msgid "Booking Successful"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1029
+#: includes/post-types/flat-rate-trips.php:31
+#: includes/shortcodes/booking-page.php:108
+#: includes/shortcodes/booking-thanks-page.php:45
+#: includes/shortcodes/booking-thanks-page.php:88
+#: includes/templates/booking-step2.php:184
+#: includes/templates/booking-step3.php:6
+#: includes/templates/booking-steps.php:13
+msgid "Trip Details"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1039
+#: chauffeur-shortcodes-post-types.php:1097
+#: includes/shortcodes/booking-full-width.php:14
+#: includes/shortcodes/booking-image-background.php:24
+#: includes/shortcodes/booking-page.php:136
+#: includes/shortcodes/booking-page.php:509
+#: includes/shortcodes/booking-thanks-page.php:116
+#: includes/templates/booking-step2.php:172
+#: includes/templates/booking-step2.php:229
+#: includes/templates/booking-step2.php:233
+#: includes/templates/booking-step3.php:16
+#: includes/templates/booking-step3.php:74
+#: includes/templates/single-fleet.php:56
+msgid "Distance"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1041
+#: includes/shortcodes/booking-full-width.php:15
+#: includes/shortcodes/booking-image-background.php:25
+#: includes/shortcodes/booking-page.php:510
+#: includes/templates/booking-step2.php:174
+#: includes/templates/booking-step3.php:18
+#: includes/templates/single-fleet.php:57
+msgid "Hourly"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1043
+#: includes/shortcodes/booking-full-width.php:16
+#: includes/shortcodes/booking-image-background.php:26
+#: includes/shortcodes/booking-page.php:511
+#: includes/templates/booking-step2.php:176
+#: includes/templates/booking-step3.php:20
+#: includes/templates/single-fleet.php:58
+msgid "Flat Rate"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1046
+#: includes/shortcodes/booking-page.php:117
+#: includes/shortcodes/booking-thanks-page.php:97
+msgid "Service:"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1060
+#: includes/shortcodes/fleet-carousel.php:113
+#: includes/shortcodes/fleet-page.php:111
+#: includes/templates/booking-step2.php:204
+#: includes/templates/booking-step3.php:37
+msgid "From"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1061
+#: includes/templates/booking-step2.php:205
+#: includes/templates/booking-step3.php:38
+msgid "To"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1063
+#: includes/shortcodes/booking-page.php:120
+#: includes/shortcodes/booking-thanks-page.php:100
+msgid "Vehicle:"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1068
+#: chauffeur-shortcodes-post-types.php:1073 includes/post-types/payments.php:65
+#: includes/shortcodes/booking-full-width.php:49
+#: includes/shortcodes/booking-full-width.php:55
+#: includes/shortcodes/booking-full-width.php:268
+#: includes/shortcodes/booking-full-width.php:274
+#: includes/shortcodes/booking-image-background.php:42
+#: includes/shortcodes/booking-image-background.php:226
+#: includes/shortcodes/booking-page.php:248
+#: includes/shortcodes/booking-page.php:527
+#: includes/shortcodes/booking-page.php:718
+#: includes/templates/booking-step2.php:216
+#: includes/templates/booking-step2.php:221
+#: includes/templates/booking-step3.php:45
+#: includes/templates/booking-step3.php:50
+#: includes/templates/email-admin-booking.php:46
+#: includes/templates/email-customer-booking.php:45
+#: includes/templates/single-fleet.php:253
+msgid "Return"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1070
+#: includes/shortcodes/booking-full-width.php:54
+#: includes/shortcodes/booking-full-width.php:273
+#: includes/shortcodes/booking-image-background.php:41
+#: includes/shortcodes/booking-image-background.php:225
+#: includes/shortcodes/booking-page.php:250
+#: includes/shortcodes/booking-page.php:526
+#: includes/shortcodes/booking-page.php:717
+#: includes/templates/booking-step2.php:218
+#: includes/templates/booking-step3.php:47
+#: includes/templates/single-fleet.php:252
+msgid "One Way"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1079
+#: includes/post-types/payments.php:179
+#: includes/templates/booking-step2.php:412
+#: includes/templates/booking-step3.php:56
+#: includes/templates/email-admin-booking.php:26
+#: includes/templates/email-customer-booking.php:25
+msgid "Flight Number"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1089
+#: includes/shortcodes/booking-page.php:128
+#: includes/shortcodes/booking-thanks-page.php:108
+msgid "Date:"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1093
+#: includes/shortcodes/booking-page.php:132
+#: includes/shortcodes/booking-thanks-page.php:112
+#: includes/templates/booking-step2.php:209
+#: includes/templates/booking-step3.php:70
+#: includes/templates/email-admin-booking.php:42
+#: includes/templates/email-customer-booking.php:41
+msgid "Hours"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1101
+#: includes/shortcodes/booking-page.php:140
+#: includes/shortcodes/booking-thanks-page.php:120
+msgid "Pick Up Time:"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1105
+#: includes/templates/booking-step2.php:346
+#: includes/templates/booking-step3.php:82
+msgid "Pick Up Instructions"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1111
+#: includes/templates/booking-step2.php:355
+#: includes/templates/booking-step3.php:88
+msgid "Drop Off Instructions"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1117
+#: includes/templates/booking-step2.php:320
+#: includes/templates/booking-step3.php:94
+msgid "Full Pick Up Address"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1123
+#: includes/templates/booking-step2.php:329
+#: includes/templates/booking-step3.php:100
+msgid "Full Drop Off Address"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1129
+#: includes/shortcodes/booking-page.php:141
+#: includes/shortcodes/booking-thanks-page.php:121
+#: includes/templates/booking-step3.php:106
+msgid "Route Estimate"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1129
+#: includes/shortcodes/booking-page.php:141
+#: includes/shortcodes/booking-thanks-page.php:121
+#: includes/templates/booking-step2.php:250
+#: includes/templates/booking-step3.php:106
+msgid "View Map"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1141
+#: includes/shortcodes/booking-page.php:151
+#: includes/shortcodes/booking-thanks-page.php:131
+#: includes/templates/booking-step3.php:118
+msgid "Passengers Details"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1156
+#: includes/shortcodes/booking-page.php:166
+#: includes/shortcodes/booking-thanks-page.php:146
+msgid "Passengers:"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1157
+#: includes/shortcodes/booking-page.php:167
+#: includes/shortcodes/booking-thanks-page.php:147
+msgid "Bags:"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1165
+#: includes/shortcodes/booking-page.php:175
+#: includes/shortcodes/booking-thanks-page.php:155
+msgid "Name:"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1166
+#: includes/shortcodes/booking-page.php:176
+#: includes/shortcodes/booking-thanks-page.php:156
+msgid "Email:"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1167
+#: includes/shortcodes/booking-page.php:177
+#: includes/shortcodes/booking-thanks-page.php:157
+msgid "Phone:"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1181
+#: includes/shortcodes/booking-page.php:191
+#: includes/shortcodes/booking-thanks-page.php:171
+msgid "Additional Information:"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1194
+#: includes/shortcodes/booking-thanks-page.php:184
+msgid "Invalid Request"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1217
+msgid "1am"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1218
+msgid "2am"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1219
+msgid "3am"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1220
+msgid "4am"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1221
+msgid "5am"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1222
+msgid "6am"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1223
+msgid "7am"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1224
+msgid "8am"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1225
+msgid "9am"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1226
+msgid "10am"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1227
+msgid "11am"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1228
+msgid "12pm"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1229
+msgid "1pm"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1230
+msgid "2pm"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1231
+msgid "3pm"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1232
+msgid "4pm"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1233
+msgid "5pm"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1234
+msgid "6pm"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1235
+msgid "7pm"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1236
+msgid "8pm"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1237
+msgid "9pm"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1238
+msgid "10pm"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1239
+msgid "11pm"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1240
+msgid "12am"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1244
+msgid "01"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1245
+msgid "02"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1246
+msgid "03"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1247
+msgid "04"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1248
+#: includes/shortcodes/booking-full-width.php:85
+#: includes/shortcodes/booking-full-width.php:186
+#: includes/shortcodes/booking-full-width.php:304
+#: includes/shortcodes/booking-image-background.php:66
+#: includes/shortcodes/booking-image-background.php:146
+#: includes/shortcodes/booking-image-background.php:251
+#: includes/shortcodes/booking-page.php:552
+#: includes/shortcodes/booking-page.php:635
+#: includes/shortcodes/booking-page.php:743
+#: includes/templates/single-fleet.php:89
+#: includes/templates/single-fleet.php:173
+#: includes/templates/single-fleet.php:278
+msgid "05"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1249
+msgid "06"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1250
+msgid "07"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1251
+msgid "08"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1252
+msgid "09"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1253
+#: includes/shortcodes/booking-full-width.php:86
+#: includes/shortcodes/booking-full-width.php:187
+#: includes/shortcodes/booking-full-width.php:305
+#: includes/shortcodes/booking-image-background.php:67
+#: includes/shortcodes/booking-image-background.php:147
+#: includes/shortcodes/booking-image-background.php:252
+#: includes/shortcodes/booking-page.php:553
+#: includes/shortcodes/booking-page.php:636
+#: includes/shortcodes/booking-page.php:744
+#: includes/templates/single-fleet.php:90
+#: includes/templates/single-fleet.php:174
+#: includes/templates/single-fleet.php:279
+msgid "10"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1254
+msgid "11"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1255
+msgid "12"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1256
+msgid "13"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1257
+msgid "14"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1258
+#: includes/shortcodes/booking-full-width.php:87
+#: includes/shortcodes/booking-full-width.php:188
+#: includes/shortcodes/booking-full-width.php:306
+#: includes/shortcodes/booking-image-background.php:68
+#: includes/shortcodes/booking-image-background.php:148
+#: includes/shortcodes/booking-image-background.php:253
+#: includes/shortcodes/booking-page.php:554
+#: includes/shortcodes/booking-page.php:637
+#: includes/shortcodes/booking-page.php:745
+#: includes/templates/single-fleet.php:91
+#: includes/templates/single-fleet.php:175
+#: includes/templates/single-fleet.php:280
+msgid "15"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1259
+msgid "16"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1260
+msgid "17"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1261
+msgid "18"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1262
+msgid "19"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1263
+#: includes/shortcodes/booking-full-width.php:88
+#: includes/shortcodes/booking-full-width.php:189
+#: includes/shortcodes/booking-full-width.php:307
+#: includes/shortcodes/booking-image-background.php:69
+#: includes/shortcodes/booking-image-background.php:149
+#: includes/shortcodes/booking-image-background.php:254
+#: includes/shortcodes/booking-page.php:555
+#: includes/shortcodes/booking-page.php:638
+#: includes/shortcodes/booking-page.php:746
+#: includes/templates/single-fleet.php:92
+#: includes/templates/single-fleet.php:176
+#: includes/templates/single-fleet.php:281
+msgid "20"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1264
+msgid "21"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1265
+msgid "22"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1266
+msgid "23"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1267
+#: includes/shortcodes/booking-full-width.php:84
+#: includes/shortcodes/booking-full-width.php:185
+#: includes/shortcodes/booking-full-width.php:303
+#: includes/shortcodes/booking-image-background.php:65
+#: includes/shortcodes/booking-image-background.php:145
+#: includes/shortcodes/booking-image-background.php:250
+#: includes/shortcodes/booking-page.php:551
+#: includes/shortcodes/booking-page.php:634
+#: includes/shortcodes/booking-page.php:742
+#: includes/templates/single-fleet.php:88
+#: includes/templates/single-fleet.php:172
+#: includes/templates/single-fleet.php:277
+msgid "00"
+msgstr ""
+
+#: chauffeur-shortcodes-post-types.php:1521
+msgid "Stripe"
+msgstr ""
+
+#: includes/pagination.php:18 includes/pagination.php:42
+#: includes/shortcodes/fleet-page.php:144 includes/shortcodes/news-page.php:188
+#: includes/shortcodes/testimonials-page.php:95
+msgid "&larr; Older posts"
+msgstr ""
+
+#: includes/pagination.php:19 includes/pagination.php:43
+#: includes/shortcodes/fleet-page.php:145 includes/shortcodes/news-page.php:189
+#: includes/shortcodes/testimonials-page.php:96
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#: includes/post-types/flat-rate-trips.php:8
+msgid "Flat Rate Trips"
+msgstr ""
+
+#: includes/post-types/flat-rate-trips.php:9
+#: includes/shortcodes/booking-full-width.php:223
+msgid "Trip"
+msgstr ""
+
+#: includes/post-types/flat-rate-trips.php:10
+msgid "Add Trip"
+msgstr ""
+
+#: includes/post-types/flat-rate-trips.php:11
+msgid "Add New Trip"
+msgstr ""
+
+#: includes/post-types/flat-rate-trips.php:17
+msgid "flat_rate_trips"
+msgstr ""
+
+#: includes/post-types/flat-rate-trips.php:45
+msgid "Pick Up Location Name"
+msgstr ""
+
+#: includes/post-types/flat-rate-trips.php:51
+msgid "Drop Off Location Name"
+msgstr ""
+
+#: includes/post-types/fleet.php:8 includes/post-types/fleet.php:9
+msgid "Fleet"
+msgstr ""
+
+#: includes/post-types/fleet.php:10
+msgid "Add Vehicle"
+msgstr ""
+
+#: includes/post-types/fleet.php:11
+msgid "Add New Vehicle"
+msgstr ""
+
+#: includes/post-types/fleet.php:17
+msgid "fleet"
+msgstr ""
+
+#: includes/post-types/fleet.php:27
+msgid "fleet-type"
+msgstr ""
+
+#: includes/post-types/fleet.php:27
+msgid "Vehicle Type"
+msgstr ""
+
+#: includes/post-types/fleet.php:43
+msgid "Vehicle Details"
+msgstr ""
+
+#: includes/post-types/fleet.php:57
+msgid "Short Description"
+msgstr ""
+
+#: includes/post-types/fleet.php:63
+msgid "Passenger Capacity"
+msgstr ""
+
+#: includes/post-types/fleet.php:69
+msgid "Bag Capacity"
+msgstr ""
+
+#: includes/post-types/fleet.php:164
+msgid "Sidebar Content"
+msgstr ""
+
+#: includes/post-types/fleet.php:178
+msgid "Sidebar Section Icon 1"
+msgstr ""
+
+#: includes/post-types/fleet.php:179 includes/post-types/fleet.php:197
+#: includes/post-types/fleet.php:215
+msgid ""
+"Please use Font Awesome icon codes e.g. \"fa-calendar\": http://fontawesome."
+"io/cheatsheet/"
+msgstr ""
+
+#: includes/post-types/fleet.php:184
+msgid "Sidebar Section Title 1"
+msgstr ""
+
+#: includes/post-types/fleet.php:190
+msgid "Sidebar Section Content 1"
+msgstr ""
+
+#: includes/post-types/fleet.php:196
+msgid "Sidebar Section Icon 2"
+msgstr ""
+
+#: includes/post-types/fleet.php:202
+msgid "Sidebar Section Title 2"
+msgstr ""
+
+#: includes/post-types/fleet.php:208
+msgid "Sidebar Section Content 2"
+msgstr ""
+
+#: includes/post-types/fleet.php:214
+msgid "Sidebar Section Icon 3"
+msgstr ""
+
+#: includes/post-types/fleet.php:220
+msgid "Sidebar Section Title 3"
+msgstr ""
+
+#: includes/post-types/fleet.php:226
+msgid "Sidebar Section Content 3"
+msgstr ""
+
+#: includes/post-types/fleet.php:321
+msgid "Hourly &amp; Distance Pricing"
+msgstr ""
+
+#: includes/post-types/fleet.php:335
+msgid "\"From\" Price"
+msgstr ""
+
+#: includes/post-types/fleet.php:341
+msgid ""
+"Price Per Kilometer or Mile (choose km or miles in Theme Options > Payments "
+"in the \"Distance Measurement Unit\" field)"
+msgstr ""
+
+#: includes/post-types/fleet.php:347
+msgid "Price Per Hour"
+msgstr ""
+
+#: includes/post-types/fleet.php:353
+msgid "Price Per Day"
+msgstr ""
+
+#: includes/post-types/fleet.php:448
+msgid "Flat Rate Pricing"
+msgstr ""
+
+#: includes/post-types/fleet.php:484
+msgid "Price For"
+msgstr ""
+
+#: includes/post-types/fleet.php:485
+msgid "Only enter numerical values, e.g. 10.00 for $10.00"
+msgstr ""
+
+#: includes/post-types/payments.php:8
+msgid "Bookings"
+msgstr ""
+
+#: includes/post-types/payments.php:9
+msgid "Booking"
+msgstr ""
+
+#: includes/post-types/payments.php:10
+msgid "Add Booking"
+msgstr ""
+
+#: includes/post-types/payments.php:11
+msgid "Add New Booking"
+msgstr ""
+
+#: includes/post-types/payments.php:17
+msgid "payment"
+msgstr ""
+
+#: includes/post-types/payments.php:29
+msgid "Booking Details"
+msgstr ""
+
+#: includes/post-types/payments.php:41
+msgid "Payment Status"
+msgstr ""
+
+#: includes/post-types/payments.php:47
+msgid "Payment Amount"
+msgstr ""
+
+#: includes/post-types/payments.php:53
+msgid "Payment Method Selected"
+msgstr ""
+
+#: includes/post-types/payments.php:59
+#: includes/templates/email-admin-booking.php:39
+#: includes/templates/email-customer-booking.php:38
+msgid "Trip Type"
+msgstr ""
+
+#: includes/post-types/payments.php:71
+msgid "Vehicle Type Requested"
+msgstr ""
+
+#: includes/post-types/payments.php:77
+#: includes/templates/email-admin-booking.php:14
+#: includes/templates/email-customer-booking.php:13
+msgid "Pickup Address"
+msgstr ""
+
+#: includes/post-types/payments.php:83
+#: includes/templates/email-admin-booking.php:16
+#: includes/templates/email-customer-booking.php:15
+msgid "Full Pickup Address"
+msgstr ""
+
+#: includes/post-types/payments.php:89
+#: includes/templates/email-admin-booking.php:18
+#: includes/templates/email-customer-booking.php:17
+msgid "Pickup Instructions"
+msgstr ""
+
+#: includes/post-types/payments.php:95
+#: includes/templates/email-admin-booking.php:20
+#: includes/templates/email-customer-booking.php:19
+msgid "Dropoff Address"
+msgstr ""
+
+#: includes/post-types/payments.php:101
+#: includes/templates/email-admin-booking.php:22
+#: includes/templates/email-customer-booking.php:21
+msgid "Full Dropoff Address"
+msgstr ""
+
+#: includes/post-types/payments.php:107
+#: includes/templates/email-admin-booking.php:24
+#: includes/templates/email-customer-booking.php:23
+msgid "Dropoff Instructions"
+msgstr ""
+
+#: includes/post-types/payments.php:113
+msgid "Pickup Date"
+msgstr ""
+
+#: includes/post-types/payments.php:119
+#: includes/templates/email-admin-booking.php:12
+#: includes/templates/email-customer-booking.php:12
+msgid "Pickup Time"
+msgstr ""
+
+#: includes/post-types/payments.php:125
+msgid "Number Hours"
+msgstr ""
+
+#: includes/post-types/payments.php:131
+msgid "Number of Passengers"
+msgstr ""
+
+#: includes/post-types/payments.php:137
+msgid "Number of Bags"
+msgstr ""
+
+#: includes/post-types/payments.php:143
+#: includes/templates/booking-step2.php:370
+msgid "First Name"
+msgstr ""
+
+#: includes/post-types/payments.php:149
+#: includes/templates/booking-step2.php:379
+msgid "Last Name"
+msgstr ""
+
+#: includes/post-types/payments.php:155
+#: includes/templates/booking-step3.php:143
+#: includes/templates/email-admin-booking.php:33
+#: includes/templates/email-customer-booking.php:32
+msgid "Email"
+msgstr ""
+
+#: includes/post-types/payments.php:161
+#: includes/templates/booking-step2.php:403
+#: includes/templates/email-admin-booking.php:32
+#: includes/templates/email-customer-booking.php:31
+msgid "Phone Number"
+msgstr ""
+
+#: includes/post-types/payments.php:167
+msgid "Estimated Trip Distance"
+msgstr ""
+
+#: includes/post-types/payments.php:173
+msgid "Estimated Trip Time"
+msgstr ""
+
+#: includes/post-types/payments.php:185
+msgid "Additional Info"
+msgstr ""
+
+#: includes/post-types/rates.php:8
+msgid "Rates"
+msgstr ""
+
+#: includes/post-types/rates.php:9 includes/post-types/rates.php:17
+msgid "rates"
+msgstr ""
+
+#: includes/post-types/rates.php:10
+msgid "Add Rate"
+msgstr ""
+
+#: includes/post-types/rates.php:11
+msgid "Add New Rate"
+msgstr ""
+
+#: includes/post-types/rates.php:31
+msgid "Rate Details"
+msgstr ""
+
+#: includes/post-types/rates.php:45
+msgid "Currency Unit"
+msgstr ""
+
+#: includes/post-types/rates.php:51
+msgid "Rate Column 1 Price"
+msgstr ""
+
+#: includes/post-types/rates.php:57
+msgid "Rate Column 1 Unit"
+msgstr ""
+
+#: includes/post-types/rates.php:63
+msgid "Rate Column 1 Description"
+msgstr ""
+
+#: includes/post-types/rates.php:69
+msgid "Rate Column 2 Price"
+msgstr ""
+
+#: includes/post-types/rates.php:75
+msgid "Rate Column 2 Unit"
+msgstr ""
+
+#: includes/post-types/rates.php:81
+msgid "Rate Column 2 Description"
+msgstr ""
+
+#: includes/post-types/rates.php:87
+msgid "Rate Column 3 Price"
+msgstr ""
+
+#: includes/post-types/rates.php:93
+msgid "Rate Column 3 Unit"
+msgstr ""
+
+#: includes/post-types/rates.php:99
+msgid "Rate Column 3 Description"
+msgstr ""
+
+#: includes/post-types/testimonials.php:8
+msgid "Testimonials"
+msgstr ""
+
+#: includes/post-types/testimonials.php:9
+msgid "Testimonial"
+msgstr ""
+
+#: includes/post-types/testimonials.php:10
+msgid "Add Testimonial"
+msgstr ""
+
+#: includes/post-types/testimonials.php:11
+msgid "Add New Testimonial"
+msgstr ""
+
+#: includes/post-types/testimonials.php:17
+msgid "testimonials"
+msgstr ""
+
+#: includes/post-types/testimonials.php:45
+msgid "Passenger Name"
+msgstr ""
+
+#: includes/post-types/testimonials.php:51
+msgid "Other Details"
+msgstr ""
+
+#: includes/shortcodes/booking-full-width.php:29
+#: includes/shortcodes/booking-full-width.php:121
+#: includes/shortcodes/booking-image-background.php:35
+#: includes/shortcodes/booking-image-background.php:100
+#: includes/shortcodes/booking-page.php:520
+#: includes/shortcodes/booking-page.php:589
+#: includes/templates/single-fleet.php:67
+#: includes/templates/single-fleet.php:123
+msgid "Pick Up Address"
+msgstr ""
+
+#: includes/shortcodes/booking-full-width.php:39
+#: includes/shortcodes/booking-full-width.php:153
+#: includes/shortcodes/booking-image-background.php:36
+#: includes/shortcodes/booking-image-background.php:125
+#: includes/shortcodes/booking-page.php:521
+#: includes/shortcodes/booking-page.php:614
+#: includes/templates/single-fleet.php:68
+#: includes/templates/single-fleet.php:152
+msgid "Drop Off Address"
+msgstr ""
+
+#: includes/shortcodes/booking-full-width.php:62
+#: includes/shortcodes/booking-full-width.php:163
+#: includes/shortcodes/booking-full-width.php:281
+#: includes/shortcodes/booking-image-background.php:46
+#: includes/shortcodes/booking-image-background.php:126
+#: includes/shortcodes/booking-image-background.php:231
+#: includes/shortcodes/booking-page.php:531
+#: includes/shortcodes/booking-page.php:615
+#: includes/shortcodes/booking-page.php:723
+#: includes/templates/single-fleet.php:69
+#: includes/templates/single-fleet.php:153
+#: includes/templates/single-fleet.php:258
+msgid "Pick Up Date"
+msgstr ""
+
+#: includes/shortcodes/booking-full-width.php:72
+#: includes/shortcodes/booking-full-width.php:173
+#: includes/shortcodes/booking-full-width.php:291
+#: includes/shortcodes/booking-image-background.php:49
+#: includes/shortcodes/booking-image-background.php:129
+#: includes/shortcodes/booking-image-background.php:234
+#: includes/shortcodes/booking-page.php:535
+#: includes/shortcodes/booking-page.php:618
+#: includes/shortcodes/booking-page.php:726
+#: includes/templates/booking-step2.php:246
+#: includes/templates/booking-step3.php:78
+#: includes/templates/single-fleet.php:72
+#: includes/templates/single-fleet.php:156
+#: includes/templates/single-fleet.php:261
+msgid "Pick Up Time"
+msgstr ""
+
+#: includes/shortcodes/booking-full-width.php:89
+#: includes/shortcodes/booking-full-width.php:190
+#: includes/shortcodes/booking-full-width.php:308
+#: includes/shortcodes/booking-image-background.php:70
+#: includes/shortcodes/booking-image-background.php:150
+#: includes/shortcodes/booking-image-background.php:255
+#: includes/shortcodes/booking-page.php:556
+#: includes/shortcodes/booking-page.php:639
+#: includes/shortcodes/booking-page.php:747
+#: includes/templates/single-fleet.php:93
+#: includes/templates/single-fleet.php:177
+#: includes/templates/single-fleet.php:282
+msgid "25"
+msgstr ""
+
+#: includes/shortcodes/booking-full-width.php:90
+#: includes/shortcodes/booking-full-width.php:191
+#: includes/shortcodes/booking-full-width.php:309
+#: includes/shortcodes/booking-image-background.php:71
+#: includes/shortcodes/booking-image-background.php:151
+#: includes/shortcodes/booking-image-background.php:256
+#: includes/shortcodes/booking-page.php:557
+#: includes/shortcodes/booking-page.php:640
+#: includes/shortcodes/booking-page.php:748
+#: includes/templates/single-fleet.php:94
+#: includes/templates/single-fleet.php:178
+#: includes/templates/single-fleet.php:283
+msgid "30"
+msgstr ""
+
+#: includes/shortcodes/booking-full-width.php:91
+#: includes/shortcodes/booking-full-width.php:192
+#: includes/shortcodes/booking-full-width.php:310
+#: includes/shortcodes/booking-image-background.php:72
+#: includes/shortcodes/booking-image-background.php:152
+#: includes/shortcodes/booking-image-background.php:257
+#: includes/shortcodes/booking-page.php:558
+#: includes/shortcodes/booking-page.php:641
+#: includes/shortcodes/booking-page.php:749
+#: includes/templates/single-fleet.php:95
+#: includes/templates/single-fleet.php:179
+#: includes/templates/single-fleet.php:284
+msgid "35"
+msgstr ""
+
+#: includes/shortcodes/booking-full-width.php:92
+#: includes/shortcodes/booking-full-width.php:193
+#: includes/shortcodes/booking-full-width.php:311
+#: includes/shortcodes/booking-image-background.php:73
+#: includes/shortcodes/booking-image-background.php:153
+#: includes/shortcodes/booking-image-background.php:258
+#: includes/shortcodes/booking-page.php:559
+#: includes/shortcodes/booking-page.php:642
+#: includes/shortcodes/booking-page.php:750
+#: includes/templates/single-fleet.php:96
+#: includes/templates/single-fleet.php:180
+#: includes/templates/single-fleet.php:285
+msgid "40"
+msgstr ""
+
+#: includes/shortcodes/booking-full-width.php:93
+#: includes/shortcodes/booking-full-width.php:194
+#: includes/shortcodes/booking-full-width.php:312
+#: includes/shortcodes/booking-image-background.php:74
+#: includes/shortcodes/booking-image-background.php:154
+#: includes/shortcodes/booking-image-background.php:259
+#: includes/shortcodes/booking-page.php:560
+#: includes/shortcodes/booking-page.php:643
+#: includes/shortcodes/booking-page.php:751
+#: includes/templates/single-fleet.php:97
+#: includes/templates/single-fleet.php:181
+#: includes/templates/single-fleet.php:286
+msgid "45"
+msgstr ""
+
+#: includes/shortcodes/booking-full-width.php:94
+#: includes/shortcodes/booking-full-width.php:195
+#: includes/shortcodes/booking-full-width.php:313
+#: includes/shortcodes/booking-image-background.php:75
+#: includes/shortcodes/booking-image-background.php:155
+#: includes/shortcodes/booking-image-background.php:260
+#: includes/shortcodes/booking-page.php:561
+#: includes/shortcodes/booking-page.php:644
+#: includes/shortcodes/booking-page.php:752
+#: includes/templates/single-fleet.php:98
+#: includes/templates/single-fleet.php:182
+#: includes/templates/single-fleet.php:287
+msgid "50"
+msgstr ""
+
+#: includes/shortcodes/booking-full-width.php:95
+#: includes/shortcodes/booking-full-width.php:196
+#: includes/shortcodes/booking-full-width.php:314
+#: includes/shortcodes/booking-image-background.php:76
+#: includes/shortcodes/booking-image-background.php:156
+#: includes/shortcodes/booking-image-background.php:261
+#: includes/shortcodes/booking-page.php:562
+#: includes/shortcodes/booking-page.php:645
+#: includes/shortcodes/booking-page.php:753
+#: includes/templates/single-fleet.php:99
+#: includes/templates/single-fleet.php:183
+#: includes/templates/single-fleet.php:288
+msgid "55"
+msgstr ""
+
+#: includes/shortcodes/booking-full-width.php:105
+#: includes/shortcodes/booking-full-width.php:206
+#: includes/shortcodes/booking-full-width.php:324
+#: includes/shortcodes/booking-image-background.php:85
+#: includes/shortcodes/booking-image-background.php:165
+#: includes/shortcodes/booking-image-background.php:270
+#: includes/shortcodes/booking-page.php:574
+#: includes/shortcodes/booking-page.php:657
+#: includes/shortcodes/booking-page.php:765
+#: includes/templates/single-fleet.php:108
+#: includes/templates/single-fleet.php:192
+#: includes/templates/single-fleet.php:297
+msgid "Reserve Now"
+msgstr ""
+
+#: includes/shortcodes/booking-full-width.php:131
+#: includes/shortcodes/booking-image-background.php:103
+#: includes/shortcodes/booking-page.php:592
+#: includes/templates/single-fleet.php:126
+msgid "Trip Duration"
+msgstr ""
+
+#: includes/shortcodes/booking-full-width.php:144
+#: includes/shortcodes/booking-image-background.php:118
+#: includes/shortcodes/booking-page.php:607
+#: includes/templates/single-fleet.php:143
+msgid "Hour(s)"
+msgstr ""
+
+#: includes/shortcodes/booking-page.php:101
+#: includes/shortcodes/booking-thanks-page.php:81
+msgid "Payment Successful"
+msgstr ""
+
+#: includes/shortcodes/booking-page.php:118
+#: includes/shortcodes/booking-thanks-page.php:98
+msgid "From:"
+msgstr ""
+
+#: includes/shortcodes/booking-page.php:119
+#: includes/shortcodes/booking-thanks-page.php:99
+msgid "To:"
+msgstr ""
+
+#: includes/shortcodes/booking-page.php:207
+msgid "Payment Failed"
+msgstr ""
+
+#: includes/shortcodes/booking-page.php:210
+msgid ""
+"Unfortunately we were not able to process your payment, please contact us at "
+"hello@test.com for assistance."
+msgstr ""
+
+#: includes/shortcodes/booking-page.php:261
+#: includes/templates/email-admin-booking.php:12
+#: includes/templates/email-customer-booking.php:12
+msgid "at"
+msgstr ""
+
+#: includes/shortcodes/booking-page.php:270
+msgid "Unpaid"
+msgstr ""
+
+#: includes/shortcodes/booking-page.php:312
+msgid "PayPal is loading, please wait..."
+msgstr ""
+
+#: includes/shortcodes/booking-page.php:339
+msgid "Enter Payment Information"
+msgstr ""
+
+#: includes/shortcodes/booking-page.php:342
+msgid "Please review the details before entering payment information."
+msgstr ""
+
+#: includes/shortcodes/booking-page.php:350
+msgid "Card Holder Name"
+msgstr ""
+
+#: includes/shortcodes/booking-page.php:353
+msgid "Card Number"
+msgstr ""
+
+#: includes/shortcodes/booking-page.php:359
+msgid "Expiration (MM)"
+msgstr ""
+
+#: includes/shortcodes/booking-page.php:364
+msgid "Expiration (YY)"
+msgstr ""
+
+#: includes/shortcodes/booking-page.php:370
+msgid "CVC"
+msgstr ""
+
+#: includes/shortcodes/booking-page.php:403
+msgid "Confirm & Pay"
+msgstr ""
+
+#: includes/shortcodes/booking-page.php:485
+msgid "Cash"
+msgstr ""
+
+#: includes/shortcodes/booking-thanks-page.php:43
+#: includes/templates/booking-steps.php:7
+#: includes/templates/booking-steps.php:9
+msgid "1."
+msgstr ""
+
+#: includes/shortcodes/booking-thanks-page.php:50
+#: includes/templates/booking-steps.php:20
+#: includes/templates/booking-steps.php:22
+msgid "2."
+msgstr ""
+
+#: includes/shortcodes/booking-thanks-page.php:52
+#: includes/templates/booking-step2.php:49
+#: includes/templates/booking-steps.php:26
+msgid "Select Vehicle"
+msgstr ""
+
+#: includes/shortcodes/booking-thanks-page.php:57
+#: includes/templates/booking-steps.php:33
+#: includes/templates/booking-steps.php:35
+msgid "3."
+msgstr ""
+
+#: includes/shortcodes/booking-thanks-page.php:60
+#: includes/templates/booking-steps.php:40
+msgid "Enter Payment Details"
+msgstr ""
+
+#: includes/shortcodes/booking-thanks-page.php:62
+#: includes/templates/booking-steps.php:42
+msgid "Review Details"
+msgstr ""
+
+#: includes/shortcodes/booking-thanks-page.php:68
+#: includes/templates/booking-steps.php:50
+#: includes/templates/booking-steps.php:52
+msgid "4."
+msgstr ""
+
+#: includes/shortcodes/booking-thanks-page.php:70
+#: includes/templates/booking-steps.php:56
+msgid "Confirmation"
+msgstr ""
+
+#: includes/shortcodes/fleet-carousel.php:130
+#: includes/shortcodes/fleet-page.php:128
+#: includes/templates/booking-step2.php:163
+msgid "No vehicles have been added yet"
+msgstr ""
+
+#: includes/shortcodes/googlemap.php:120
+msgid ""
+"Please enter a valid Google Map API key in the theme options \"General\" "
+"section"
+msgstr ""
+
+#: includes/shortcodes/news-carousel.php:47
+msgid "Latest News"
+msgstr ""
+
+#: includes/shortcodes/news-carousel.php:81
+#: includes/shortcodes/news-page.php:106 includes/shortcodes/news-page.php:137
+msgid "No Comments"
+msgstr ""
+
+#: includes/shortcodes/news-carousel.php:81
+#: includes/shortcodes/news-page.php:106 includes/shortcodes/news-page.php:137
+msgid "1 Comment"
+msgstr ""
+
+#: includes/shortcodes/news-carousel.php:81
+#: includes/shortcodes/news-page.php:106 includes/shortcodes/news-page.php:137
+msgid "% Comments"
+msgstr ""
+
+#: includes/shortcodes/news-carousel.php:81
+#: includes/shortcodes/news-page.php:106 includes/shortcodes/news-page.php:137
+msgid "Comments Off"
+msgstr ""
+
+#: includes/shortcodes/news-carousel.php:103
+#: includes/shortcodes/news-page.php:172
+msgid "No news has been added yet"
+msgstr ""
+
+#: includes/shortcodes/news-page.php:135
+msgid "By"
+msgstr ""
+
+#: includes/shortcodes/news-page.php:156
+msgid "Read More"
+msgstr ""
+
+#: includes/shortcodes/service-rates-page.php:21
+msgid "Mobile users, please swipe left/right to view prices"
+msgstr ""
+
+#: includes/shortcodes/testimonials-page.php:79
+msgid "No testimonials have been added yet"
+msgstr ""
+
+#: includes/templates/booking-step2.php:24
+msgid ""
+"Sorry, we can't calculate the distance between the addresses you supplied, "
+"please"
+msgstr ""
+
+#: includes/templates/booking-step2.php:24
+msgid "try a different address"
+msgstr ""
+
+#: includes/templates/booking-step2.php:190
+msgid "Service Type"
+msgstr ""
+
+#: includes/templates/booking-step2.php:229
+msgid "Invalid Address"
+msgstr ""
+
+#: includes/templates/booking-step2.php:245
+#: includes/templates/booking-step3.php:66
+msgid "Date"
+msgstr ""
+
+#: includes/templates/booking-step2.php:274
+msgid "Number Of Passengers"
+msgstr ""
+
+#: includes/templates/booking-step2.php:296
+msgid "Number Of Bags"
+msgstr ""
+
+#: includes/templates/booking-step2.php:394
+msgid "Email Address"
+msgstr ""
+
+#: includes/templates/booking-step2.php:415
+#: includes/templates/booking-step3.php:158
+msgid "Additional Information"
+msgstr ""
+
+#: includes/templates/booking-step2.php:447
+msgid "I have read and accept the"
+msgstr ""
+
+#: includes/templates/booking-step2.php:447
+msgid "terms &amp; conditions"
+msgstr ""
+
+#: includes/templates/booking-step2.php:456
+msgid "Terms &amp; Conditions"
+msgstr ""
+
+#: includes/templates/booking-step2.php:474
+#: includes/templates/booking-step2.php:480
+msgid "Confirm &amp; Pay"
+msgstr ""
+
+#: includes/templates/booking-step2.php:485
+msgid "Sorry, the addresses you provided are invalid so we cannot proceed"
+msgstr ""
+
+#: includes/templates/booking-step3.php:23
+msgid "Service"
+msgstr ""
+
+#: includes/templates/booking-step3.php:40
+#: includes/templates/email-admin-booking.php:11
+#: includes/templates/email-customer-booking.php:11
+msgid "Vehicle"
+msgstr ""
+
+#: includes/templates/booking-step3.php:133
+#: includes/templates/email-admin-booking.php:9
+#: includes/templates/email-customer-booking.php:9
+msgid "Passengers"
+msgstr ""
+
+#: includes/templates/booking-step3.php:134
+#: includes/templates/email-admin-booking.php:10
+#: includes/templates/email-customer-booking.php:10
+msgid "Bags"
+msgstr ""
+
+#: includes/templates/booking-step3.php:142
+#: includes/templates/email-admin-booking.php:8
+#: includes/templates/email-customer-booking.php:8
+msgid "Name"
+msgstr ""
+
+#: includes/templates/booking-step3.php:144
+msgid "Phone"
+msgstr ""
+
+#: includes/templates/booking-step3.php:231
+msgid "Total Price"
+msgstr ""
+
+#: includes/templates/booking-step3.php:237
+#: includes/templates/booking-step3.php:241
+msgid "Includes Surcharge of"
+msgstr ""
+
+#: includes/templates/booking-step3.php:277
+msgid "Pay with PayPal"
+msgstr ""
+
+#: includes/templates/booking-step3.php:281
+msgid "Pay with Credit Card"
+msgstr ""
+
+#: includes/templates/booking-step3.php:285
+msgid "Pay with Cash"
+msgstr ""
+
+#: includes/templates/booking-step3.php:294
+msgid "Proceed To Payment"
+msgstr ""
+
+#: includes/templates/booking-step3.php:302
+msgid "Proceed To Book"
+msgstr ""
+
+#: includes/templates/email-admin-booking.php:29
+#: includes/templates/email-customer-booking.php:28
+msgid "Estimated Distance"
+msgstr ""
+
+#: includes/templates/email-admin-booking.php:36
+#: includes/templates/email-customer-booking.php:35
+msgid "Additional Details"
+msgstr ""
+
+#: includes/templates/email-admin-booking.php:51
+#: includes/templates/email-customer-booking.php:50
+msgid "Payment Details"
+msgstr ""
+
+#: includes/templates/email-admin-booking.php:55
+#: includes/templates/email-customer-booking.php:54
+msgid "Amount"
+msgstr ""
+
+#: includes/templates/single-fleet.php:318
+msgid "Pricing Options"
+msgstr ""
+
+#: includes/templates/taxonomy-fleet-categories.php:19
+msgid ""
+"To create a Fleet category page, please go to \"Pages > Add New\", select "
+"the \"Our Fleet Page\" element in Visual Composer, and enter your category "
+"slug in the \"Category\" field."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Chauffeur Shortcodes & Post Types"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://quitenicestuff.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A Simple Shortcodes and Post Type Plugin"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Quite Nice Stuff"
+msgstr ""

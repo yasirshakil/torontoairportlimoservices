@@ -1,0 +1,265 @@
+/* Main Highlight Colour */
+.logo-icon,
+.header-area-1 .topright-button,
+.header-area-2 .topright-button,
+.header-area-1 .navigation li a:hover,
+.header-area-1 .navigation li.current-menu-item > a,
+.header-area-1 .navigation li.current_page_item > a,
+.header-area-2 .navigation li li a:hover,
+.mobile-navigation-wrapper ul li li a:hover,
+.mobile-navigation-wrapper ul li li li a:hover,
+.rev-custom-caption-1 .title-block1,
+.rev-custom-caption-2 .title-block1,
+.slideshow-button,
+.title-block2,
+.title-block3,
+.fleet-block-wrapper .fleet-block-content .fleet-price,
+.header-booking-form-wrapper #booking-tabs ul li.ui-state-active a,
+.widget-booking-form-wrapper #booking-tabs ul li.ui-state-active a,
+.booking-form-1 button,
+#ui-datepicker-div a:hover,
+.owl-theme .owl-dots .owl-dot span,
+#booking-tabs-2 .booking-form-2 button,
+#booking-tabs-2 .booking-form-3 button,
+.widget-block,
+.page-not-found-search-form button,
+.button2,
+.button4,
+.button6,
+.link-arrow,
+.main-content button,
+#submit-button,
+.content-wrapper form .wpcf7-submit,
+.main-content .search-results-form button,
+.accordion h4:before,
+.toggle h4:before,
+.button0,
+.title-block4,
+.call-to-action-2-section .title-block5,
+.newsletter-form button,
+.title-block6,
+.title-block7,
+#booking-tabs-2 .nav li.ui-state-active a,
+.page-pagination li span.current,
+.page-pagination li a:hover,
+.news-read-more,
+.more-link,
+.call-to-action-button,
+.main-content .step-icon-current,
+.view-map-button,
+.main-content p .view-map-button,
+.trip-details-wrapper form button,
+.total-price-display .payment-button,
+.service-rate-wrapper:hover .service-rate-header,
+.wp-pagenavi span.current,
+.wp-pagenavi a:hover,
+.footer table th, 
+.sidebar-content table th,
+.vc_tta-panels .vc_tta-panel-title:before,
+.post-pagination span,
+.post-pagination span:hover,
+.button1:hover {
+	background: #cc4452;
+}
+
+.pp_close {
+	background: url("../images/close.png") no-repeat center #cc4452;
+}
+
+.footer .tnp-field input[type="submit"] {
+	background-color: #cc4452;
+}
+
+.header-area-1 .header-icon i,
+.header-area-2 .header-icon i,
+.content-wrapper ul li:before,
+.latest-news-block-content .news-meta .nm-news-date:before,
+.latest-news-block-content .news-meta .nm-news-comments:before,
+.testimonial-wrapper span.qns-open-quote,
+.testimonial-wrapper span.qns-close-quote,
+.main-content p a,
+.widget ul li:before,
+.main-content ul li:before,
+.main-content blockquote:before,
+.home-icon-wrapper-2 .qns-home-icon,
+.contact-details-list .cdw-address:before,
+.contact-details-list .cdw-phone:before,
+.contact-details-list .cdw-email:before,
+.main-content .social-links li i,
+.main-content .search-results-list li:before,
+.news-block-wrapper .news-meta .nm-news-author:before,
+.news-block-wrapper .news-meta .nm-news-date:before,
+.news-block-wrapper .news-meta .nm-news-category:before,
+.news-block-wrapper .news-meta .nm-news-comments:before,
+.service-rate-section p strong span,
+.vehicle-section p strong,
+.sidebar-content .contact-widget .cw-address:before,
+.sidebar-content .contact-widget .cw-phone:before,
+.sidebar-content .contact-widget .cw-cell:before {
+	color: #cc4452;
+}
+
+.header-area-2 .navigation li.current-menu-item,
+.header-area-2 .navigation li:hover {
+	border-top: #cc4452 3px solid;
+}
+
+.main-content blockquote {
+	border-left: #cc4452 3px solid;
+}
+
+.owl-theme .owl-dots .owl-dot span, .owl-theme .owl-dots .owl-dot.active span,
+.home-icon-wrapper-2 .qns-home-icon,
+.total-price-display {
+	border: #cc4452 3px solid;
+}
+
+.news-block-wrapper-1-col-listing .sticky {
+	border: #cc4452 2px solid;
+}
+
+#booking-tabs-2 .nav li.ui-state-active a,
+.service-rate-wrapper:hover .service-rate-header {
+	border-right: #cc4452 1px solid;
+}
+
+.page-pagination li span.current,
+.page-pagination li a:hover,
+.wp-pagenavi span.current,
+.wp-pagenavi a:hover,
+.post-pagination span,
+.post-pagination span:hover {
+	border: #cc4452 1px solid;
+}
+
+.header-booking-form-wrapper #booking-tabs ul li.ui-state-active a:after,
+.widget-booking-form-wrapper #booking-tabs ul li.ui-state-active a:after {
+	border-top: 15px solid #cc4452;
+}
+
+#booking-tabs-2 .nav li.ui-state-active a:after {
+	border-left: 17px solid #cc4452;
+}
+
+#tabs .ui-tabs-nav li.ui-state-active {
+	border-top: #cc4452 4px solid;
+}
+
+.service-rate-wrapper:hover .service-rate-header:after {
+	border-top: 10px solid #cc4452;
+}
+
+.select-vehicle-wrapper .vehicle-section:hover,
+.select-vehicle-wrapper .selected-vehicle {
+	border: #cc4452 2px solid;
+	outline: #cc4452 1px solid;
+}
+
+.vc_tta-color-grey.vc_tta-style-classic .vc_tta-tab.vc_active > a {
+	border-top: #cc4452 4px solid !important;
+}
+
+.total-price-inner {
+	border-bottom: #cc4452 3px solid;
+}
+
+@media only screen and (max-width: 1250px) { 
+	
+	#booking-tabs-2 .nav li.ui-state-active a:after {
+		border-top: 15px solid #cc4452;
+	}
+
+}
+
+/* Overlayed On Main Colour, Should Be Lighter */
+.service-rate-wrapper:hover .service-rate-header p {
+	color: #e7aeb4;
+}
+
+/* Dark Backgroud Colour */
+.header-area-1 #primary-navigation,
+.mobile-navigation-wrapper,
+.mobile-navigation-wrapper ul li li a,
+.mobile-navigation-wrapper ul li li li a,
+.header-booking-form-wrapper,
+.widget-booking-form-wrapper,
+#ui-datepicker-div,
+.about-us-block,
+.footer,
+.body-booking-form-wrapper,
+.main-content table th,
+.page-not-found-search-form,
+.link-blocks .link-block-2,
+.link-blocks .link-block-3,
+.main-content .search-results-form,
+.widget .pricing-options-widget,
+.service-rate-header,
+.call-to-action-small,
+.step-icon,
+.trip-details-wrapper,
+.full-booking-wrapper,
+.lightbox-title {
+	background: #1c1c1c;
+}
+
+.call-to-action-1-section,
+.testimonials-full-wrapper,
+.paypal-loader {
+	background-color: #1c1c1c;
+}
+
+#tabs .nav li a {
+	color: #1c1c1c !important;
+}
+
+.service-rate-header:after {
+	border-top: 10px solid #1c1c1c;
+}
+
+/* Border Overlayed On Dark Background */
+.mobile-navigation-wrapper ul a,
+.ui-datepicker-calendar thead tr th,
+.footer-bottom {
+	border-top: #3b3b3b 1px solid;
+}
+
+.header-booking-form-wrapper #booking-tabs ul li a,
+.widget-booking-form-wrapper #booking-tabs ul li a,
+.ui-datepicker-calendar tbody tr td a,
+#ui-datepicker-div .ui-datepicker-calendar tbody tr td span,
+.ui-datepicker-calendar thead tr th,
+.widget .pricing-options-widget ul li,
+.trip-details-wrapper .trip-details-wrapper-1 p,
+.full-booking-wrapper .clearfix .qns-one-half p,
+.footer .widget ul li,
+.footer table td {
+	border-bottom: #3b3b3b 1px solid;
+}
+
+.ui-datepicker-calendar tbody tr td a,
+#ui-datepicker-div .ui-datepicker-calendar tbody tr td span,
+#booking-tabs-2 .nav li a,
+.service-rate-header,
+.footer table td {
+	border-right: #3b3b3b 1px solid;
+}
+
+.trip-details-wrapper .trip-details-wrapper-2,
+.passenger-details-wrapper,
+.footer .tagcloud a,
+.footer .widget-booking-form-wrapper {
+	border: #3b3b3b 1px solid;
+}
+
+.space7 {
+	background: #3b3b3b;
+}
+
+/* Alternative Text Colour Overlayed On Dark Background */
+.contact-widget .cw-phone span,
+.contact-widget .cw-cell span,
+.widget .pricing-options-widget,
+.service-rate-header p,
+.service-rate-section p {
+	color: #838383;
+}

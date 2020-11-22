@@ -1,0 +1,2370 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Chauffeur\n"
+"POT-Creation-Date: 2017-10-02 16:06+0900\n"
+"PO-Revision-Date: 2017-10-02 16:06+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:7 404.php:9
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:9 framework/inc/dimox_breadcrumbs.php:13
+msgid "Home"
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"Sorry, the requested page could not be found, the page may have been deleted "
+"or you may have followed a broken link."
+msgstr ""
+
+#: 404.php:26 searchform.php:3
+msgid "Search..."
+msgstr ""
+
+#: 404.php:29 comments.php:59 functions.php:1241
+msgid "Submit"
+msgstr ""
+
+#: archive.php:14
+#, php-format
+msgid "All posts in: \"%s\""
+msgstr ""
+
+#: archive.php:18
+#, php-format
+msgid "All posts tagged: \"%s\""
+msgstr ""
+
+#: archive.php:23
+#, php-format
+msgid "All posts by: \"%s\""
+msgstr ""
+
+#: archive.php:27
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:31
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:31
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:35
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:35
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:38
+msgid "Archives"
+msgstr ""
+
+#: archive.php:77 category.php:38 index.php:42 single.php:36
+msgid "By"
+msgstr ""
+
+#: archive.php:79 category.php:40 index.php:44 single.php:38
+msgid "No Comments"
+msgstr ""
+
+#: archive.php:79 category.php:40 comments.php:16 index.php:44 single.php:38
+msgid "1 Comment"
+msgstr ""
+
+#: archive.php:79 category.php:40 comments.php:16 index.php:44 single.php:38
+msgid "% Comments"
+msgstr ""
+
+#: archive.php:79 category.php:40 index.php:44 single.php:38
+msgid "Comments Off"
+msgstr ""
+
+#: archive.php:98 category.php:59 index.php:63
+msgid "Read More"
+msgstr ""
+
+#: comments.php:16
+msgid "No comments"
+msgstr ""
+
+#: comments.php:26
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:27
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:45
+msgid "Comment"
+msgstr ""
+
+#: comments.php:51
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:53
+msgid "Leave a Comment<span class=\"title-block7\"></span>"
+msgstr ""
+
+#: comments.php:55
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:57
+msgid "Cancel Reply To Comment"
+msgstr ""
+
+#: comments.php:65
+msgid "Name"
+msgstr ""
+
+#: comments.php:65 comments.php:67
+msgid "*"
+msgstr ""
+
+#: comments.php:67 framework/inc/visualcomposer/vc_modifications.php:1367
+msgid "Email"
+msgstr ""
+
+#: comments.php:69
+msgid "Website"
+msgstr ""
+
+#: framework/admin/admin-config.php:18 framework/admin/admin-config.php:19
+msgid "Theme Options"
+msgstr ""
+
+#: framework/admin/admin-config.php:79
+msgid "General"
+msgstr ""
+
+#: framework/admin/admin-config.php:88
+msgid "Site Layout Style"
+msgstr ""
+
+#: framework/admin/admin-config.php:100
+msgid "Header Style"
+msgstr ""
+
+#: framework/admin/admin-config.php:112
+msgid "Footer Message Style"
+msgstr ""
+
+#: framework/admin/admin-config.php:124
+msgid "Fleet Single Page Sidebar"
+msgstr ""
+
+#: framework/admin/admin-config.php:136
+msgid "Top Left Text"
+msgstr ""
+
+#: framework/admin/admin-config.php:144
+msgid "Header Text Title 1"
+msgstr ""
+
+#: framework/admin/admin-config.php:152
+msgid "Header Text 1"
+msgstr ""
+
+#: framework/admin/admin-config.php:160
+msgid "Header Text Title 2"
+msgstr ""
+
+#: framework/admin/admin-config.php:168
+msgid "Header Text 2"
+msgstr ""
+
+#: framework/admin/admin-config.php:176
+msgid "Header Text Title 3"
+msgstr ""
+
+#: framework/admin/admin-config.php:184
+msgid "Header Text 3"
+msgstr ""
+
+#: framework/admin/admin-config.php:192
+msgid "Top Right Button Text"
+msgstr ""
+
+#: framework/admin/admin-config.php:200
+msgid "Top Right Button URL"
+msgstr ""
+
+#: framework/admin/admin-config.php:208
+msgid "Open top right button in new window/tab"
+msgstr ""
+
+#: framework/admin/admin-config.php:216
+msgid "Google Map API Key"
+msgstr ""
+
+#: framework/admin/admin-config.php:224
+msgid "Footer Message"
+msgstr ""
+
+#: framework/admin/admin-config.php:226
+msgid "Text displayed in the bottom center of the site footer"
+msgstr ""
+
+#: framework/admin/admin-config.php:232
+msgid "Fleet Page URL"
+msgstr ""
+
+#: framework/admin/admin-config.php:234 framework/admin/admin-config.php:242
+msgid "Required for the breadcrumbs"
+msgstr ""
+
+#: framework/admin/admin-config.php:240
+msgid "Testimonials Page URL"
+msgstr ""
+
+#: framework/admin/admin-config.php:249
+msgid "Bookings"
+msgstr ""
+
+#: framework/admin/admin-config.php:258
+msgid "Minimum time for hourly bookings"
+msgstr ""
+
+#: framework/admin/admin-config.php:316
+msgid "Cut off time for same day bookings"
+msgstr ""
+
+#: framework/admin/admin-config.php:350
+msgid "Remove Distance Based Bookings"
+msgstr ""
+
+#: framework/admin/admin-config.php:358
+msgid "Remove Hourly Based Bookings"
+msgstr ""
+
+#: framework/admin/admin-config.php:366
+msgid "Remove Flat Rate Based Bookings"
+msgstr ""
+
+#: framework/admin/admin-config.php:374
+msgid "Currency Symbol"
+msgstr ""
+
+#: framework/admin/admin-config.php:376
+msgid "e.g. $"
+msgstr ""
+
+#: framework/admin/admin-config.php:382
+msgid "Currency Symbol Position"
+msgstr ""
+
+#: framework/admin/admin-config.php:394
+msgid "Datepicker Format"
+msgstr ""
+
+#: framework/admin/admin-config.php:407
+msgid "Time Format"
+msgstr ""
+
+#: framework/admin/admin-config.php:419
+msgid "Distance Measurement Unit"
+msgstr ""
+
+#: framework/admin/admin-config.php:431
+msgid "Remove Vehicle Link On Booking Step 2 Page"
+msgstr ""
+
+#: framework/admin/admin-config.php:439
+msgid "Booking Surcharge"
+msgstr ""
+
+#: framework/admin/admin-config.php:443
+msgid "Percentage of Total"
+msgstr ""
+
+#: framework/admin/admin-config.php:444
+#: framework/inc/widgets/widget-booking.php:43
+msgid "Flat Rate"
+msgstr ""
+
+#: framework/admin/admin-config.php:445
+msgid "None"
+msgstr ""
+
+#: framework/admin/admin-config.php:452
+msgid "Surcharge Percentage"
+msgstr ""
+
+#: framework/admin/admin-config.php:454
+msgid "For \"10%\" just add \"10\", do not add \"%\""
+msgstr ""
+
+#: framework/admin/admin-config.php:460
+msgid "Surcharge Flat Rate"
+msgstr ""
+
+#: framework/admin/admin-config.php:462
+msgid "For \"$10\" just add \"10\", do not add \"$\""
+msgstr ""
+
+#: framework/admin/admin-config.php:468
+msgid "Enable Surcharge For Distance Bookings"
+msgstr ""
+
+#: framework/admin/admin-config.php:476
+msgid "Enable Surcharge For Hourly Bookings"
+msgstr ""
+
+#: framework/admin/admin-config.php:484
+msgid "Enable Surcharge For Flat Rate Bookings"
+msgstr ""
+
+#: framework/admin/admin-config.php:492
+msgid "Limit Search/Booking To a Specific Country"
+msgstr ""
+
+#: framework/admin/admin-config.php:752
+msgid "Accept PayPal Payments"
+msgstr ""
+
+#: framework/admin/admin-config.php:760
+msgid "Accept Stripe Payments"
+msgstr ""
+
+#: framework/admin/admin-config.php:768
+msgid "Accept Cash Payments"
+msgstr ""
+
+#: framework/admin/admin-config.php:776
+msgid "Remove All Pricing/Payments"
+msgstr ""
+
+#: framework/admin/admin-config.php:784
+msgid "Bookings Email Address"
+msgstr ""
+
+#: framework/admin/admin-config.php:786
+msgid "Emails will be sent to this address when a booking is placed"
+msgstr ""
+
+#: framework/admin/admin-config.php:792
+msgid "Booking Page URL"
+msgstr ""
+
+#: framework/admin/admin-config.php:794
+msgid ""
+"The URL of the page with the [booking_page] shortcode added to it should be "
+"entered here"
+msgstr ""
+
+#: framework/admin/admin-config.php:800
+msgid "Thanks Page URL"
+msgstr ""
+
+#: framework/admin/admin-config.php:802
+msgid ""
+"The URL of the page with the [booking_thanks_page] shortcode added to it "
+"should be entered here"
+msgstr ""
+
+#: framework/admin/admin-config.php:808
+msgid "Customer Booking Email Subject"
+msgstr ""
+
+#: framework/admin/admin-config.php:810
+msgid "The subject of the booking email sent to customers"
+msgstr ""
+
+#: framework/admin/admin-config.php:811
+msgid "Thanks for booking with Chauffeur!"
+msgstr ""
+
+#: framework/admin/admin-config.php:816
+msgid "Customer Booking Email Template"
+msgstr ""
+
+#: framework/admin/admin-config.php:818
+msgid ""
+"Email message sent to customers when they place a booking (note: booking "
+"data such as pickup date, time, etc is automatically inserted already)"
+msgstr ""
+
+#: framework/admin/admin-config.php:819
+msgid "Thanks, we have received your booking and will get back to you shortly!"
+msgstr ""
+
+#: framework/admin/admin-config.php:824
+msgid "Admin Booking Email Subject"
+msgstr ""
+
+#: framework/admin/admin-config.php:826
+msgid "The subject of the booking email sent to the website admin"
+msgstr ""
+
+#: framework/admin/admin-config.php:827
+msgid "A New Vehicle Booking Has Been Placed"
+msgstr ""
+
+#: framework/admin/admin-config.php:832
+msgid "Admin Booking Email Template"
+msgstr ""
+
+#: framework/admin/admin-config.php:834
+msgid ""
+"Email message sent to the website admin when customers place a booking "
+"(note: booking data such as pickup date, time, etc is automatically inserted "
+"already)"
+msgstr ""
+
+#: framework/admin/admin-config.php:835
+msgid "Please see below for details of the booking"
+msgstr ""
+
+#: framework/admin/admin-config.php:840
+msgid "Email Sender Name"
+msgstr ""
+
+#: framework/admin/admin-config.php:842
+msgid "The sender name used for the customer and admin email"
+msgstr ""
+
+#: framework/admin/admin-config.php:843
+msgid "Mr Chauffeur"
+msgstr ""
+
+#: framework/admin/admin-config.php:848
+msgid "Booking Thanks Message"
+msgstr ""
+
+#: framework/admin/admin-config.php:850
+msgid "Displayed to customers after successfully booking"
+msgstr ""
+
+#: framework/admin/admin-config.php:851
+msgid ""
+"Thanks for booking! We have sent you a confirmation email which should "
+"arrive in your inbox shortly!"
+msgstr ""
+
+#: framework/admin/admin-config.php:858
+msgid "PayPal"
+msgstr ""
+
+#: framework/admin/admin-config.php:867
+msgid "PayPal Currency"
+msgstr ""
+
+#: framework/admin/admin-config.php:869
+msgid "The currency PayPal payments will be process with"
+msgstr ""
+
+#: framework/admin/admin-config.php:901
+msgid "PayPal Sandbox"
+msgstr ""
+
+#: framework/admin/admin-config.php:903
+msgid ""
+"PayPal sandbox allows you to test payments - you should set it to off when "
+"you publish your publish"
+msgstr ""
+
+#: framework/admin/admin-config.php:913
+msgid "PayPal Email Address"
+msgstr ""
+
+#: framework/admin/admin-config.php:915
+msgid "The email address PayPal payments will be sent to"
+msgstr ""
+
+#: framework/admin/admin-config.php:923
+msgid "Stripe"
+msgstr ""
+
+#: framework/admin/admin-config.php:932
+msgid "Stripe Currency"
+msgstr ""
+
+#: framework/admin/admin-config.php:934
+msgid "The currency Stripe payments will be process with"
+msgstr ""
+
+#: framework/admin/admin-config.php:1078
+msgid "Stripe Test Mode"
+msgstr ""
+
+#: framework/admin/admin-config.php:1080
+msgid ""
+"Stripe test mode allows you to test payments - you should set it to off when "
+"you publish your publish"
+msgstr ""
+
+#: framework/admin/admin-config.php:1090
+msgid "Test Secret Key"
+msgstr ""
+
+#: framework/admin/admin-config.php:1098
+msgid "Test Publishable Key"
+msgstr ""
+
+#: framework/admin/admin-config.php:1106
+msgid "Live Secret Key"
+msgstr ""
+
+#: framework/admin/admin-config.php:1114
+msgid "Live Publishable Key"
+msgstr ""
+
+#: framework/admin/admin-config.php:1124
+msgid "Logo"
+msgstr ""
+
+#: framework/admin/admin-config.php:1133
+msgid "Logo Image"
+msgstr ""
+
+#: framework/admin/admin-config.php:1134
+msgid "Add a logo image"
+msgstr ""
+
+#: framework/admin/admin-config.php:1142
+msgid "Colors"
+msgstr ""
+
+#: framework/admin/admin-config.php:1151
+msgid "Main Color"
+msgstr ""
+
+#: framework/admin/admin-config.php:1152
+msgid "Pick a main color for the theme (default: #cc4452)."
+msgstr ""
+
+#: framework/admin/admin-config.php:1159
+msgid "Main Color Overlay"
+msgstr ""
+
+#: framework/admin/admin-config.php:1160
+msgid "Overlayed on top of the main color (default: #e7aeb4)"
+msgstr ""
+
+#: framework/admin/admin-config.php:1167
+msgid "Secondary Background Color"
+msgstr ""
+
+#: framework/admin/admin-config.php:1168
+msgid ""
+"Pick a background color for the footer / other dark areas (default: #1c1c1c)."
+msgstr ""
+
+#: framework/admin/admin-config.php:1175
+msgid "Secondary Color Border Color"
+msgstr ""
+
+#: framework/admin/admin-config.php:1176
+msgid "Border color overlayed on the secondary color (default: #3b3b3b)."
+msgstr ""
+
+#: framework/admin/admin-config.php:1183
+msgid "Secondary Color Alt Text Color"
+msgstr ""
+
+#: framework/admin/admin-config.php:1184
+msgid ""
+"Alternative color of text overlayed on the secondary background color "
+"(default: #838383)."
+msgstr ""
+
+#: framework/admin/admin-config.php:1192
+msgid "Fonts"
+msgstr ""
+
+#: framework/admin/admin-config.php:1201
+msgid "Font Family 1 (Used For Titles)"
+msgstr ""
+
+#: framework/admin/admin-config.php:1203
+msgid "e.g. 'Montserrat', sans-serif"
+msgstr ""
+
+#: framework/admin/admin-config.php:1209
+msgid "Font URL 1"
+msgstr ""
+
+#: framework/admin/admin-config.php:1211
+msgid ""
+"Only required if you're using Google Fonts or similar, e.g. "
+"Montserrat:400,700"
+msgstr ""
+
+#: framework/admin/admin-config.php:1217
+msgid "Font Family 2 (Used For Body)"
+msgstr ""
+
+#: framework/admin/admin-config.php:1219
+msgid "e.g. 'Source Sans Pro', sans-serif"
+msgstr ""
+
+#: framework/admin/admin-config.php:1225
+msgid "Font URL 2"
+msgstr ""
+
+#: framework/admin/admin-config.php:1227
+msgid ""
+"Only required if you're using Google Fonts or similar, e.g. Source Sans "
+"Pro:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900,900italic"
+msgstr ""
+
+#: framework/admin/admin-config.php:1234
+msgid "Page Header"
+msgstr ""
+
+#: framework/admin/admin-config.php:1243
+msgid "Default Page Header Image"
+msgstr ""
+
+#: framework/admin/admin-config.php:1244
+msgid "Displayed on all pages a header image is not set in the page options"
+msgstr ""
+
+#: framework/admin/admin-config.php:1251 framework/admin/admin-config.php:1261
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/admin/admin-config.php:1263
+msgid "Add your own custom CSS to the theme"
+msgstr ""
+
+#: framework/admin/admin-config.php:1270
+msgid "Social"
+msgstr ""
+
+#: framework/admin/admin-config.php:1279
+msgid "Open social links in new window/tab"
+msgstr ""
+
+#: framework/admin/admin-config.php:1287
+msgid "Facebook URL"
+msgstr ""
+
+#: framework/admin/admin-config.php:1289 framework/admin/admin-config.php:1297
+#: framework/admin/admin-config.php:1305 framework/admin/admin-config.php:1313
+#: framework/admin/admin-config.php:1321 framework/admin/admin-config.php:1329
+#: framework/admin/admin-config.php:1337 framework/admin/admin-config.php:1345
+#: framework/admin/admin-config.php:1353 framework/admin/admin-config.php:1361
+#: framework/admin/admin-config.php:1369 framework/admin/admin-config.php:1377
+#: framework/admin/admin-config.php:1385 framework/admin/admin-config.php:1393
+msgid "Enter URL e.g. http://website.com/username"
+msgstr ""
+
+#: framework/admin/admin-config.php:1295
+msgid "Flickr URL"
+msgstr ""
+
+#: framework/admin/admin-config.php:1303
+msgid "GooglePlus URL"
+msgstr ""
+
+#: framework/admin/admin-config.php:1311
+msgid "Instagram URL"
+msgstr ""
+
+#: framework/admin/admin-config.php:1319
+msgid "LinkedIn URL"
+msgstr ""
+
+#: framework/admin/admin-config.php:1327
+msgid "Pinterest URL"
+msgstr ""
+
+#: framework/admin/admin-config.php:1335
+msgid "Skype URL"
+msgstr ""
+
+#: framework/admin/admin-config.php:1343
+msgid "Soundcloud URL"
+msgstr ""
+
+#: framework/admin/admin-config.php:1351
+msgid "Tumblr URL"
+msgstr ""
+
+#: framework/admin/admin-config.php:1359
+msgid "Twitter URL"
+msgstr ""
+
+#: framework/admin/admin-config.php:1367
+msgid "Vimeo URL"
+msgstr ""
+
+#: framework/admin/admin-config.php:1375
+msgid "Vine URL"
+msgstr ""
+
+#: framework/admin/admin-config.php:1383
+msgid "Yelp URL"
+msgstr ""
+
+#: framework/admin/admin-config.php:1391
+msgid "Youtube URL"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:393
+#: framework/inc/class-tgm-plugin-activation.php:912
+#: framework/inc/class-tgm-plugin-activation.php:2618
+#: framework/inc/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:394
+#: framework/inc/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:395
+#: framework/inc/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:1019
+#: framework/inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:1206
+#: framework/inc/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2634
+#: framework/inc/visualcomposer/vc_modifications.php:1235
+#: framework/inc/visualcomposer/vc_modifications.php:1727
+msgid "Type"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3594
+#: framework/inc/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3594
+#: framework/inc/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/inc/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/inc/dimox_breadcrumbs.php:14
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: framework/inc/dimox_breadcrumbs.php:15
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: framework/inc/dimox_breadcrumbs.php:16
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: framework/inc/dimox_breadcrumbs.php:17
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: framework/inc/dimox_breadcrumbs.php:18
+msgid "Error 404"
+msgstr ""
+
+#: framework/inc/dimox_breadcrumbs.php:19
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: framework/inc/dimox_breadcrumbs.php:20
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: framework/inc/post-types/page.php:23 framework/inc/post-types/post.php:23
+msgid "Sidebar Layout"
+msgstr ""
+
+#: framework/inc/post-types/page.php:43
+msgid "Title Style"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:95
+msgid "Booking Form With Image Background"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:96
+msgid "Add a booking form with an image background"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:105
+#: framework/inc/visualcomposer/vc_modifications.php:626
+#: framework/inc/visualcomposer/vc_modifications.php:682
+msgid "Background Image"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:119
+msgid "Booking Form Full Width"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:120
+msgid "Add a booking form which spans the width of the page"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:133
+msgid "Our Fleet Carousel"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:134
+msgid "Display vehicles in a carousel"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:143
+#: framework/inc/visualcomposer/vc_modifications.php:303
+#: framework/inc/visualcomposer/vc_modifications.php:650
+#: framework/inc/visualcomposer/vc_modifications.php:818
+#: framework/inc/visualcomposer/vc_modifications.php:925
+msgid "Section Title"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:151
+msgid "Section Intro"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:159
+#: framework/inc/visualcomposer/vc_modifications.php:322
+#: framework/inc/visualcomposer/vc_modifications.php:466
+#: framework/inc/visualcomposer/vc_modifications.php:1091
+#: framework/inc/visualcomposer/vc_modifications.php:1764
+msgid "Posts per page"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:268
+#: framework/inc/visualcomposer/vc_modifications.php:431
+#: framework/inc/visualcomposer/vc_modifications.php:575
+#: framework/inc/visualcomposer/vc_modifications.php:1042
+#: framework/inc/visualcomposer/vc_modifications.php:1200
+#: framework/inc/visualcomposer/vc_modifications.php:1873
+#: framework/inc/visualcomposer/vc_modifications.php:1945
+msgid "Order"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:279
+msgid "Our Fleet Category Slug (Leave blank to display all)"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:293
+msgid "Testimonials Carousel"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:294
+msgid "Display testimonials in a carousel"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:311
+msgid "Style"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:442
+msgid "Background Image URL"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:456
+msgid "Testimonials Page"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:457
+msgid "Display the testimonials page content"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:592
+msgid "Call To Action Small"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:593
+#: framework/inc/visualcomposer/vc_modifications.php:641
+msgid "Display call to action"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:602
+#: framework/inc/visualcomposer/vc_modifications.php:658
+msgid "Section Text"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:610
+#: framework/inc/visualcomposer/vc_modifications.php:666
+#: framework/inc/visualcomposer/vc_modifications.php:834
+#: framework/inc/visualcomposer/vc_modifications.php:1623
+msgid "Button Text"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:618
+#: framework/inc/visualcomposer/vc_modifications.php:674
+#: framework/inc/visualcomposer/vc_modifications.php:842
+msgid "Button URL"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:640
+msgid "Call To Action Large"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:696
+msgid "Icon Text"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:697
+msgid "Add Icons With Text"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:706
+msgid "Icon 1"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:714
+msgid "Icon Title 1"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:722
+msgid "Icon Content 1"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:730
+msgid "Icon 2"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:738
+msgid "Icon Title 2"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:746
+msgid "Icon Content 2"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:754
+msgid "Icon 3"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:762
+msgid "Icon Title 3"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:770
+msgid "Icon Content 3"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:778
+msgid "Icon 4"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:786
+msgid "Icon Title 4"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:794
+msgid "Icon Content 4"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:808
+msgid "Video Text"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:809
+msgid "Add a video with description text"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:826
+msgid "Text Content"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:850
+#: framework/inc/visualcomposer/vc_modifications.php:883
+#: framework/inc/visualcomposer/vc_modifications.php:901
+msgid "Video Thumbnail"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:858
+#: framework/inc/visualcomposer/vc_modifications.php:893
+msgid "Video URL"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:866
+#: framework/inc/visualcomposer/vc_modifications.php:2079
+#: framework/inc/visualcomposer/vc_modifications.php:2093
+#: framework/inc/visualcomposer/vc_modifications.php:2103
+msgid "Background"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:884
+msgid "Add thumbnail image with a link to a video which opens in a lightbox"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:915
+msgid "News Carousel"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:916
+msgid "Display latest news in a carousel"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:933
+msgid "Number Of Posts To Display"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1053
+#: framework/inc/visualcomposer/vc_modifications.php:1211
+msgid "Category ID (Leave empty to display all categories)"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1067
+msgid "News Page"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1068
+msgid "Display the news page content"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1077
+#: framework/inc/visualcomposer/vc_modifications.php:1276
+#: framework/inc/visualcomposer/vc_modifications.php:1884
+msgid "Columns"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1225
+msgid "Title"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1226
+msgid "Add Title"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1252
+#: framework/inc/visualcomposer/vc_modifications.php:1740
+msgid "Text"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1266
+msgid "Link Blocks"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1267
+msgid "Add Link Blocks"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1287
+msgid "Link Block Text 1"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1295
+msgid "Link Block URL 1"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1303
+msgid "Link Block Text 2"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1311
+msgid "Link Block URL 2"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1319
+msgid "Link Block Text 3"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1327
+msgid "Link Block URL 3"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1341
+msgid "Contact Details"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1342
+msgid "Display contact details in icon list"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1351
+msgid "Address"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1359
+msgid "Phone"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1381
+msgid "Social Media"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1382
+msgid "Display social media icon links"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1391
+msgid "Facebook"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1399
+msgid "Flickr"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1407
+msgid "Google Plus"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1415
+msgid "Instagram"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1423
+msgid "LinkedIn"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1431
+msgid "Pinterest"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1439
+msgid "Skype"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1447
+msgid "Soundcloud"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1455
+msgid "Tumblr"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1463
+msgid "Twitter"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1471
+msgid "Vimeo"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1479
+msgid "Vine"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1487
+msgid "Yelp"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1495
+msgid "Youtube"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1509
+msgid "Google Map"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1510
+msgid "Display Google Map"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1519
+msgid "Map ID"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1528
+msgid "Width"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1537
+msgid "Height"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1546
+msgid "Map Type"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1555
+msgid "Zoom"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1564
+msgid "Latitude"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1573
+msgid "Longitude"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1582
+msgid "Marker Content"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1591
+msgid "Map Color"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1599
+msgid "Marker Color"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1613
+msgid "Button"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1614
+msgid "Display a button"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1632
+msgid "Link URL"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1641
+msgid "Button Style"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1658
+msgid "Rounded Corners"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1670
+msgid "Center align"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1682
+msgid "Link Target"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1694
+msgid "Background Color"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1703
+msgid "Text Color"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1717
+msgid "Alert Message"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1718
+msgid "Add Alert Message Boxes"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1754
+msgid "Our Fleet Page"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1755
+msgid "Display the fleet/vehicles page content"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1897
+msgid "Vehicle Type Category Slug (Leave blank to display all)"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1911
+msgid "Booking Page"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1912
+msgid "Display the booking page"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1921
+msgid "Content"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1935
+msgid "Service Rates Page"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1936
+msgid "Display service rates table"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1956
+msgid "Order By"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1967
+msgid "Column 1 Title"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1975
+msgid "Column 1 Description"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1983
+msgid "Column 2 Title"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1991
+msgid "Column 2 Description"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:1999
+msgid "Column 3 Title"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:2007
+msgid "Column 3 Description"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:2015
+msgid "Call To Action Text"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:2023
+msgid "Call To Action Button Text"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:2031
+msgid "Call To Action Button URL"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_modifications.php:2069
+#: framework/inc/visualcomposer/vc_modifications.php:2113
+#: framework/inc/visualcomposer/vc_modifications.php:2123
+#: framework/inc/visualcomposer/vc_modifications.php:2133
+#: framework/inc/visualcomposer/vc_modifications.php:2143
+#: framework/inc/visualcomposer/vc_modifications.php:2152
+#: framework/inc/visualcomposer/vc_modifications.php:2162
+msgid "Advanced"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_templates/vc_tab.php:20
+msgid "Empty tab. Edit page to add content here."
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_templates/vc_tabs.php:52
+msgid "Previous tab"
+msgstr ""
+
+#: framework/inc/visualcomposer/vc_templates/vc_tabs.php:52
+msgid "Next tab"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:13
+msgid "Chauffeur Booking"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:14
+msgid "Display Chauffeur Booking Form"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:41
+msgid "Distance"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:42
+msgid "Hourly"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:52
+#: framework/inc/widgets/widget-booking.php:123
+msgid "Pick Up Address"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:53
+#: framework/inc/widgets/widget-booking.php:185
+msgid "Drop Off Address"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:54
+#: framework/inc/widgets/widget-booking.php:186
+#: framework/inc/widgets/widget-booking.php:306
+msgid "Pick Up Date"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:57
+#: framework/inc/widgets/widget-booking.php:189
+#: framework/inc/widgets/widget-booking.php:309
+msgid "Pick Up Time"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:64
+#: framework/inc/widgets/widget-booking.php:196
+#: framework/inc/widgets/widget-booking.php:316
+msgid "01"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:65
+#: framework/inc/widgets/widget-booking.php:197
+#: framework/inc/widgets/widget-booking.php:317
+msgid "02"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:66
+#: framework/inc/widgets/widget-booking.php:198
+#: framework/inc/widgets/widget-booking.php:318
+msgid "03"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:67
+#: framework/inc/widgets/widget-booking.php:199
+#: framework/inc/widgets/widget-booking.php:319
+msgid "04"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:68
+#: framework/inc/widgets/widget-booking.php:200
+#: framework/inc/widgets/widget-booking.php:320
+msgid "05"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:69
+#: framework/inc/widgets/widget-booking.php:201
+#: framework/inc/widgets/widget-booking.php:321
+msgid "06"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:70
+#: framework/inc/widgets/widget-booking.php:202
+#: framework/inc/widgets/widget-booking.php:322
+msgid "07"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:71
+#: framework/inc/widgets/widget-booking.php:203
+#: framework/inc/widgets/widget-booking.php:323
+msgid "08"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:72
+#: framework/inc/widgets/widget-booking.php:204
+#: framework/inc/widgets/widget-booking.php:324
+msgid "09"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:73
+#: framework/inc/widgets/widget-booking.php:205
+#: framework/inc/widgets/widget-booking.php:325
+msgid "10"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:74
+#: framework/inc/widgets/widget-booking.php:206
+#: framework/inc/widgets/widget-booking.php:326
+msgid "11"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:75
+#: framework/inc/widgets/widget-booking.php:207
+#: framework/inc/widgets/widget-booking.php:327
+msgid "12"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:76
+#: framework/inc/widgets/widget-booking.php:208
+#: framework/inc/widgets/widget-booking.php:328
+msgid "13"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:77
+#: framework/inc/widgets/widget-booking.php:209
+#: framework/inc/widgets/widget-booking.php:329
+msgid "14"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:78
+#: framework/inc/widgets/widget-booking.php:97
+#: framework/inc/widgets/widget-booking.php:210
+#: framework/inc/widgets/widget-booking.php:229
+#: framework/inc/widgets/widget-booking.php:330
+#: framework/inc/widgets/widget-booking.php:349
+msgid "15"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:79
+#: framework/inc/widgets/widget-booking.php:211
+#: framework/inc/widgets/widget-booking.php:331
+msgid "16"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:80
+#: framework/inc/widgets/widget-booking.php:212
+#: framework/inc/widgets/widget-booking.php:332
+msgid "17"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:81
+#: framework/inc/widgets/widget-booking.php:213
+#: framework/inc/widgets/widget-booking.php:333
+msgid "18"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:82
+#: framework/inc/widgets/widget-booking.php:214
+#: framework/inc/widgets/widget-booking.php:334
+msgid "19"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:83
+#: framework/inc/widgets/widget-booking.php:215
+#: framework/inc/widgets/widget-booking.php:335
+msgid "20"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:84
+#: framework/inc/widgets/widget-booking.php:216
+#: framework/inc/widgets/widget-booking.php:336
+msgid "21"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:85
+#: framework/inc/widgets/widget-booking.php:217
+#: framework/inc/widgets/widget-booking.php:337
+msgid "22"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:86
+#: framework/inc/widgets/widget-booking.php:218
+#: framework/inc/widgets/widget-booking.php:338
+msgid "23"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:87
+#: framework/inc/widgets/widget-booking.php:96
+#: framework/inc/widgets/widget-booking.php:219
+#: framework/inc/widgets/widget-booking.php:228
+#: framework/inc/widgets/widget-booking.php:339
+#: framework/inc/widgets/widget-booking.php:348
+msgid "00"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:98
+#: framework/inc/widgets/widget-booking.php:230
+#: framework/inc/widgets/widget-booking.php:350
+msgid "30"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:99
+#: framework/inc/widgets/widget-booking.php:231
+#: framework/inc/widgets/widget-booking.php:351
+msgid "45"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:108
+#: framework/inc/widgets/widget-booking.php:240
+#: framework/inc/widgets/widget-booking.php:360
+msgid "Reserve Now"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:126
+msgid "Trip Duration"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:133
+msgid "1 Hour"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:134
+msgid "2 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:135
+msgid "3 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:136
+msgid "4 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:137
+msgid "5 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:138
+msgid "6 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:139
+msgid "7 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:140
+msgid "8 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:141
+msgid "9 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:142
+msgid "10 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:143
+msgid "11 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:144
+msgid "12 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:145
+msgid "13 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:146
+msgid "14 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:147
+msgid "15 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:148
+msgid "16 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:149
+msgid "17 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:150
+msgid "18 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:151
+msgid "19 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:152
+msgid "20 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:153
+msgid "21 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:154
+msgid "22 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:155
+msgid "23 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:156
+msgid "24 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:157
+msgid "25 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:158
+msgid "26 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:159
+msgid "27 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:160
+msgid "28 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:161
+msgid "29 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:162
+msgid "30 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:163
+msgid "31 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:164
+msgid "32 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:165
+msgid "33 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:166
+msgid "34 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:167
+msgid "35 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:168
+msgid "36 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:169
+msgid "37 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:170
+msgid "38 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:171
+msgid "39 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:172
+msgid "40 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:173
+msgid "41 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:174
+msgid "42 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:175
+msgid "43 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:176
+msgid "44 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:177
+msgid "45 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:178
+msgid "46 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:179
+msgid "47 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:180
+msgid "48 Hours"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:300
+msgid "One Way"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:301
+msgid "Return"
+msgstr ""
+
+#: framework/inc/widgets/widget-booking.php:402
+#: framework/inc/widgets/widget-contact.php:86
+#: framework/inc/widgets/widget-recent-posts.php:112
+msgid "Title:"
+msgstr ""
+
+#: framework/inc/widgets/widget-contact.php:13
+msgid "Chauffeur Contact Details"
+msgstr ""
+
+#: framework/inc/widgets/widget-contact.php:14
+msgid "Display Contact Details"
+msgstr ""
+
+#: framework/inc/widgets/widget-contact.php:91
+msgid "Address/Location:"
+msgstr ""
+
+#: framework/inc/widgets/widget-contact.php:96
+msgid "Phone Number Line 1:"
+msgstr ""
+
+#: framework/inc/widgets/widget-contact.php:101
+msgid "Phone Number Line 2:"
+msgstr ""
+
+#: framework/inc/widgets/widget-contact.php:106
+msgid "Email Address Line 1:"
+msgstr ""
+
+#: framework/inc/widgets/widget-contact.php:111
+msgid "Email Address Line 2:"
+msgstr ""
+
+#: framework/inc/widgets/widget-recent-posts.php:13
+msgid "Chauffeur Recent Posts"
+msgstr ""
+
+#: framework/inc/widgets/widget-recent-posts.php:14
+msgid "Display Recent Posts"
+msgstr ""
+
+#: framework/inc/widgets/widget-recent-posts.php:75
+msgid "Category"
+msgstr ""
+
+#: framework/inc/widgets/widget-recent-posts.php:117
+msgid "Post Limit:"
+msgstr ""
+
+#: functions.php:66
+msgid "Chauffeur Shortcodes & Post Types"
+msgstr ""
+
+#: functions.php:76
+msgid "Redux Framework"
+msgstr ""
+
+#: functions.php:85
+msgid "Visual Composer"
+msgstr ""
+
+#: functions.php:95
+msgid "Revolution Slider"
+msgstr ""
+
+#: functions.php:105
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:114
+msgid "Newsletter"
+msgstr ""
+
+#: functions.php:123
+msgid "WP PageNavi"
+msgstr ""
+
+#: functions.php:132
+msgid "WordPress Importer"
+msgstr ""
+
+#: functions.php:141
+msgid "Widget Importer & Exporter"
+msgstr ""
+
+#: functions.php:219
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions.php:221
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:227
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:234
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:265
+msgid "Standard Page Sidebar"
+msgstr ""
+
+#: functions.php:267
+msgid "Displayed in the sidebar of all pages except the homepage"
+msgstr ""
+
+#: functions.php:276
+msgid "Footer Area 1"
+msgstr ""
+
+#: functions.php:278 functions.php:289 functions.php:300
+msgid "Displayed at the bottom of all pages"
+msgstr ""
+
+#: functions.php:287
+msgid "Footer Area 2"
+msgstr ""
+
+#: functions.php:298
+msgid "Footer Area 3"
+msgstr ""
+
+#: functions.php:323
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:324
+msgid "Top Right Navigation"
+msgstr ""
+
+#: functions.php:1058
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:1240
+msgid ""
+"This post is password protected. To view it please enter your password below"
+msgstr ""
+
+#: functions.php:1241
+msgid "Password"
+msgstr ""
+
+#: functions.php:1555
+msgid "Post"
+msgstr ""
+
+#: functions.php:1559
+msgid "Testimonial"
+msgstr ""
+
+#: functions.php:1563
+msgid "Page"
+msgstr ""
+
+#: functions.php:1567
+msgid "Vehicle"
+msgstr ""
+
+#: header.php:158 header.php:372 search.php:21
+msgid "To search, type and hit enter"
+msgstr ""
+
+#: index.php:6 single.php:6
+msgid "Latest News"
+msgstr ""
+
+#: loop-pagination.php:18 loop-pagination.php:42
+msgid "&larr; Older posts"
+msgstr ""
+
+#: loop-pagination.php:19 loop-pagination.php:43
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#: page.php:23
+msgid "Pages:"
+msgstr ""
+
+#: search.php:6
+msgid "Search Results"
+msgstr ""
+
+#: search.php:23
+msgid "Search"
+msgstr ""
+
+#: search.php:45
+msgid "No results were found."
+msgstr ""
+
+#: single.php:63
+msgid "Next page"
+msgstr ""
+
+#: single.php:64
+msgid "Previous page"
+msgstr ""
+
+#: single.php:73
+msgid "Tags: "
+msgstr ""

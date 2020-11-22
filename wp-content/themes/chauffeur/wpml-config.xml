@@ -1,0 +1,133 @@
+<wpml-config>
+	
+	<custom-types>
+		<custom-type translate="1">testimonials</custom-type>
+	</custom-types>
+	
+    <admin-texts>
+		<key name="Natural Shop_options">
+			<key name="sidebar_position" />
+			<key name="text_logo" />
+			<key name="image_logo" />
+			<key name="page_header" />
+			<key name="favicon_url" />
+			<key name="main_menu_search" />
+			<key name="menu_search_type" />
+			<key name="footer_msg" />
+			<key name="main_color" />
+			<key name="footer_sidebar_color" />
+			<key name="footer_sidebar_border" />
+			<key name="footer_text_color" />
+			<key name="mobile_menu_child_background" />
+			<key name="mobile_menu_child_child_background" />
+			<key name="main_colorrgba_1" />
+			<key name="main_colorrgba_2" />
+			<key name="google_font_css_1" />
+			<key name="google_font_name_1" />
+			<key name="google_font_css_2" />
+			<key name="google_font_name_2" />
+			<key name="custom_css" />
+			<key name="boxed_slideshow" />
+			<key name="slideshow_width" />
+			<key name="slideshow_height" />
+			<key name="homepage_slider">
+				<key name="1">
+					<key name="order" />
+					<key name="title" />
+					<key name="url" />
+					<key name="link" />
+					<key name="description" />
+				</key>
+				<key name="2">
+					<key name="order" />
+					<key name="title" />
+					<key name="url" />
+					<key name="link" />
+					<key name="description" />
+				</key>
+				<key name="3">
+					<key name="order" />
+					<key name="title" />
+					<key name="url" />
+					<key name="link" />
+					<key name="description" />
+				</key>
+				<key name="4">
+					<key name="order" />
+					<key name="title" />
+					<key name="url" />
+					<key name="link" />
+					<key name="description" />
+				</key>
+				<key name="5">
+					<key name="order" />
+					<key name="title" />
+					<key name="url" />
+					<key name="link" />
+					<key name="description" />
+				</key>
+				<key name="6">
+					<key name="order" />
+					<key name="title" />
+					<key name="url" />
+					<key name="link" />
+					<key name="description" />
+				</key>
+			</key>
+			<key name="home_featured_products" />
+			<key name="featured_product_columns" />
+			<key name="number_featured_products" />
+			<key name="link_block_columns" />
+			<key name="link_block_title_1" />
+			<key name="link_block_url_1" />
+			<key name="link_block_title_2" />
+			<key name="link_block_url_2" />
+			<key name="link_block_title_3" />
+			<key name="link_block_url_3" />
+			<key name="link_block_title_4" />
+			<key name="link_block_url_4" />
+			<key name="link_block_title_5" />
+			<key name="link_block_url_5" />
+			<key name="link_block_title_6" />
+			<key name="link_block_url_6" />
+			<key name="home_popular_products" />
+			<key name="number_popular_products" />
+			<key name="home_top_rated_products" />
+			<key name="number_top_rated_products" />
+			<key name="home_on_sale_products" />
+			<key name="number_on_sale_products" />
+			<key name="home-newsletter" />
+			<key name="home-testimonials" />
+			<key name="top-right-chk-acc" />
+			<key name="shop_per_page" />
+			<key name="shop_columns" />
+			<key name="blog_posts_per_page" />
+			<key name="blog-comments" />
+			<key name="blog-categories" />
+			<key name="blog-tags" />
+			<key name="blog-date" />
+			<key name="blog-author" />
+			<key name="blog-featured-image-single" />
+			<key name="testimonial_posts_per_page" />
+			<key name="facebook_footer" />
+			<key name="flickr_footer" />
+			<key name="googleplus_footer" />
+			<key name="instagram_footer" />
+			<key name="pinterest_footer" />
+			<key name="skype_footer" />
+			<key name="soundcloud_footer" />
+			<key name="tumblr_footer" />
+			<key name="twitter_footer" />
+			<key name="vimeo_footer" />
+			<key name="vine_footer" />
+			<key name="yelp_footer" />
+			<key name="youtube_footer" />
+			<key name="header_social_icon_1" />
+			<key name="header_social_icon_2" />
+			<key name="header_social_icon_3" />
+			<key name="of_backup" />
+			<key name="of_transfer" />
+		</key>
+    </admin-texts>
+
+</wpml-config>

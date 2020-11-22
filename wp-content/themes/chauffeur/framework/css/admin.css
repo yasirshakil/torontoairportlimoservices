@@ -1,0 +1,98 @@
+.chauffeur-field-wrapper input,
+.chauffeur-field-wrapper textarea {
+	background-color: #fff;
+	line-height: 100%;
+	margin: 0;
+	outline: 0 none;
+	padding: 10px 8px;
+	width: calc(100% - 16px);
+}
+
+.chauffeur-field-wrapper select {
+	background-color: #fff;
+	line-height: 100%;
+	margin: 0;
+	outline: 0 none;
+	height: 37px;
+	width: calc(100% - 16px);
+}
+
+.space1 {
+	border: 0;
+	height: 3px;
+	clear: both;
+}
+
+.chauffeur-field-wrapper label {
+	font-size: 13px;
+	font-weight: bold;
+	margin: 0 0 5px 0;
+	display: block;
+}
+
+.redux-notice,
+#redux-header .rAds .mgv1_1,
+#redux-header .rAds .mgv1_1 img {
+	display: none !important;
+}
+
+.rs-update-notice-wrap {
+	display: none;
+}
+
+tr[data-slug="slider-revolution"] + .plugin-update-tr,
+tr[data-slug="slider-revolution"] + .plugin-update-tr + .plugin-update-tr,
+tr[data-slug="revolution-slider"] + .plugin-update-tr,
+tr[data-slug="revolution-slider"] + .plugin-update-tr + .plugin-update-tr {
+    display: none;
+}
+
+.rs-dashboard #activation_dw,
+.rs-dashboard #templates_dw,
+.rs-dashboard #support_dw,
+.rs-dashboard #newsletter_dw,
+.rs-dashboard #system_dw,
+.rs-dashboard #updates_dw {
+	display: none !important;
+}
+
+.rs-update-history-wrapper {
+	display: none;
+}
+
+.column-description span a[href="./plugins.php?ReduxFrameworkPlugin=demo"] {
+	display: none;
+}
+
+#wpbody-content .wrap #wie-project {
+	display: none;
+}
+
+#vc_license-activation-notice,
+.bsf-update-nag {
+	display: none;
+}
+
+.post-type-flat_rate_trips .row-actions .view,
+.post-type-flat_rate_trips #edit-slug-box,
+.post-type-flat_rate_trips #wp-admin-bar-view,
+.post-type-flat_rate_trips #preview-action,
+.post-type-rates .row-actions .view,
+.post-type-rates #edit-slug-box,
+.post-type-rates #wp-admin-bar-view,
+.post-type-rates #preview-action,
+.post-type-payment .row-actions .view,
+.post-type-payment #edit-slug-box,
+.post-type-payment #wp-admin-bar-view,
+.post-type-payment #preview-action {
+	display: none;
+}
+
+.wp-submenu li a[href="admin.php?page=vc-updater"],
+#wpb-js-composer-settings .nav-tab-wrapper a:nth-child(3n) {
+	display: none !important;
+}
+
+#js_composer-update {
+	display: none;
+}
